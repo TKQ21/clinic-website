@@ -61,4 +61,5 @@ This model can be adapted for multiple small businesses.
 ## 👨‍💻 Author
 
 MOHD KAIF
+
 Aspiring Web Developer | AI & No-Code Builder
